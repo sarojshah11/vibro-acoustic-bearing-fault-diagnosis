@@ -1,0 +1,25 @@
+Parameter,Value
+Model,Combined ViT-B/16
+Fusion method,Feature-level fusion
+Transformer backbone,ViT-B/16
+Number of branches,2
+Pretrained weights,ImageNet
+Number of classes,5
+Input image size,224 × 224
+Patch size,16 × 16
+Feature dimension per branch,768
+Combined feature dimension,1536
+Batch size,8
+Maximum epochs,1
+Classifier learning rate,5e-05
+Backbone learning rate,1e-05
+Optimizer,AdamW
+Weight decay,0.0001
+Dropout,0.3
+Label smoothing,0.05
+Scheduler,CosineAnnealingLR
+Early stopping patience,5
+Random seed,42
+Mixed precision,False
+Total parameters,172450565
+Trainable parameters,172450565

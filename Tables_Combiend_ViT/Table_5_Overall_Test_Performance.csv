@@ -1,0 +1,10 @@
+Metric,Combined_ViT_B16
+Test Loss,0.34289243889351684
+Accuracy,0.953125
+Macro Precision,0.9492233904181123
+Macro Recall,0.9561666666666667
+Macro F1,0.9517215173859352
+Test Images,4800.0
+Test Groups,12.0
+Best Epoch,1.0
+Average Inference Time (ms/image),410.15240977207816

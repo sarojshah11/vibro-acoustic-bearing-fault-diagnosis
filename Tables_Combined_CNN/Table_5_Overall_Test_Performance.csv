@@ -1,0 +1,10 @@
+Metric,Combined_Vibration_Acoustic_CNN
+Test Loss,0.5668336707353592
+Accuracy,0.8452083333333333
+Macro Precision,0.8670310071806192
+Macro Recall,0.8473333333333333
+Macro F1,0.8433360683360748
+Test Images,4800.0
+Test Groups,12.0
+Best Epoch,5.0
+Average Inference Time (ms/image),64.09370894233386
